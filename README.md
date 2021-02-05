@@ -31,7 +31,9 @@ Addtional notes:
     Changes have been noted in both HTML and CSS files with comments.
 
 
-Link:
+App Link:
 https://ohwens.github.io/Week_1_Homework/
 
 
+Screenshot Link:
+https://github.com/ohwens/Week_1_Homework/blob/main/assets/images/Horiseon%20Page.png
