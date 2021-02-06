@@ -34,9 +34,5 @@ Addtional notes:
 App Link:
 https://ohwens.github.io/Week_1_Homework/
 
-![Example of a finished wireframe for a form.](./assets/images/Horiseon Page.png)
-
-
 Screenshot Link:
 https://github.com/ohwens/Week_1_Homework/blob/main/assets/images/Horiseon%20Page.png
-
