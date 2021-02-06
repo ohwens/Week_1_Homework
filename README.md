@@ -36,3 +36,5 @@ https://ohwens.github.io/Week_1_Homework/
 
 Screenshot Link:
 https://github.com/ohwens/Week_1_Homework/blob/main/assets/images/Horiseon%20Page.png
+
+![Alt text](./assets/images/Horiseon Page.png?raw=true "Optional Title")
