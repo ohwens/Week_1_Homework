@@ -38,3 +38,5 @@ Screenshot Link:
 https://github.com/ohwens/Week_1_Homework/blob/main/assets/images/Horiseon%20Page.png
 
 ![image](https://user-images.githubusercontent.com/20198607/107124958-624e7e00-686c-11eb-98fb-96bd0073726c.png)
+
+![image](./assets/images/Horiseon%20Page.png)
